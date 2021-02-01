@@ -14,5 +14,6 @@ I called my home page : **"Inggrit's Zone".**
 ## Technologies
 Project is created with:
 * VSCode
+* Github
 * Canva (images)
-* Git
+
