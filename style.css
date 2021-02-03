@@ -1,23 +1,19 @@
 
 body{
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
     position: relative;
     background-image: url("images/backgroud.png");
     background-position: center;
     background-size: cover;
     border: 3px dotted #FFF8DC;
-    
+    text-align: center;   
 }
 
 h1 {
-    text-decoration-line: underline;
-    text-decoration-style: wavy;
-    font-family: 'Sofia';font-size: 22px;
-}
-
-h2 {
-   font-family: 'Sofia';font-size: 22px;
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    color: bisque;
 }
 
 p {
