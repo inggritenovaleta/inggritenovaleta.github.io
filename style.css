@@ -11,7 +11,6 @@ body{
 }
 
 h1 {
-    text-shadow: 2px 2px #ffff00;
     text-decoration-line: underline;
     text-decoration-style: wavy;
     font-family: 'Sofia';font-size: 22px;
@@ -23,10 +22,10 @@ h2 {
 
 p {
     word-spacing: normal;
-    text-align: justify;
+    text-align: center;
     text-justify: inter-word;
     font-family: Garamond, serif;
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 18px;
+    font-weight: normal;
     color: bisque;
 }
