@@ -1,15 +1,31 @@
 
 body{
-    margin: 50px;
-    padding-left: 75px;
-    padding-right: 75px;
-    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 50px;
     position: relative;
     background-image: url("images/backgroud.png");
     background-position: center;
     background-size: cover;
-    text-align: center;
-    font-family: "Quicksand";
+    border: 3px dotted #FFF8DC;
+    
+}
+
+h1 {
+    text-shadow: 2px 2px #ffff00;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    font-family: 'Sofia';font-size: 22px;
+}
+
+h2 {
+   font-family: 'Sofia';font-size: 22px;
+}
+
+p {
+    word-spacing: normal;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: Garamond, serif;
     font-size: 20px;
     font-weight: 700;
     color: bisque;
