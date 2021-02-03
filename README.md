@@ -7,7 +7,8 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is part of precourse project on Hack Your Future Belgium **#Class13-14**
+This project is part of precourse project on Hack Your Future Belgium **#Class13-14**.
+
 The objective of this project is to create personal home page using HTML and CSS and get used to the system. 
 I called my home page : **"Inggrit's Zone".**
 	
