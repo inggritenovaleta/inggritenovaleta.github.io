@@ -1,6 +1,6 @@
 # Inggrit's Zone - personal home page project 👋
 
- ![Pink and Green Christmas Personal Email Header](https://user-images.githubusercontent.com/73132384/104963189-43319e80-59da-11eb-8b85-2ed37aaac2bf.png)
+  ![Pink and Tan Flowers Modern Artisan Business X-Frame Banner](https://user-images.githubusercontent.com/73132384/106731149-70ec2980-660f-11eb-92b5-81a98011d364.gif)
 ---
 ## Table of contents
 * [General info](#general-info)
